@@ -1,2 +1,2 @@
-# Collision-particles
+# collision-particles
 A collision of particles made with pure javascript
